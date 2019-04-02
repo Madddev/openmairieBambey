@@ -1,0 +1,150 @@
+
+2019-04-01 15:17:04 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 15:17:04 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 15:17:04 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-01 15:17:29 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 15:17:29 0.008 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 15:17:29 0.008 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-01 22:45:24 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 22:45:24 0.015 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 22:45:24 0.015 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-01 22:55:46 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 22:55:46 0.005 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 22:55:46 0.005 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-01 23:12:35 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 23:12:35 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 23:12:35 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-01 23:12:54 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-01 23:12:54 0.020 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-01 23:12:54 0.020 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-02 12:28:59 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 12:28:59 0.009 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-02 12:28:59 0.009 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-02 12:29:23 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 12:29:23 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-02 12:29:23 0.007 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-02 12:47:02 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 12:47:02 0.011 : class framework_openmairie - application::setDatabaseConfig(): ERR [DEBUG]
+2019-04-02 12:47:02 0.011 : class framework_openmairie - application::setDatabaseConfig(): ERR: Aucune entrée dans le fichier de configuration [DEBUG]
+
+
+2019-04-02 13:06:48 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:06:48 database::isError(): SGBD ERROR => nativecode=pg_connect(): Unable to connect to PostgreSQL server: FATAL:  authentification par mot de passe �chou�e pour l'utilisateur  � postgres �] ** pgsql(pgsql)://postgres:PASSWORD@tcp+localhost:5432/framework_openmairie?title=Framework openMairie&formatdate=AAAA-MM-JJ&schema=postgres&prefixe=&directory=ldap-test&mail=mail-test&filestorage=filestorage-default&extras [DEBUG]
+2019-04-02 13:06:48 database::isError(): PEAR ERROR => DB Error: connect failed [DEBUG]
+
+
+2019-04-02 13:08:59 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:08:59 database::isError(): SGBD ERROR => nativecode=pg_connect(): Unable to connect to PostgreSQL server: fe_sendauth: no password supplied] ** pgsql(pgsql)://postgres:PASSWORD@tcp+localhost:5432/framework_openmairie?title=Framework openMairie&formatdate=AAAA-MM-JJ&schema=postgres&prefixe=&directory=ldap-test&mail=mail-test&filestorage=filestorage-default&extras [DEBUG]
+2019-04-02 13:08:59 database::isError(): PEAR ERROR => DB Error: connect failed [DEBUG]
+
+
+2019-04-02 13:10:06 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:10:06 database::isError(): SGBD ERROR => nativecode=pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la base de donn�es � framework_openmairie � n'existe pas] ** pgsql(pgsql)://postgres:PASSWORD@tcp+localhost:5432/framework_openmairie?title=Framework openMairie&formatdate=AAAA-MM-JJ&schema=postgres&prefixe=&directory=ldap-test&mail=mail-test&filestorage=filestorage-default&extras [DEBUG]
+2019-04-02 13:10:06 database::isError(): PEAR ERROR => DB Error: connect failed [DEBUG]
+
+
+2019-04-02 13:10:09 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:10:09 database::isError(): SGBD ERROR => nativecode=pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la base de donn�es � framework_openmairie � n'existe pas] ** pgsql(pgsql)://postgres:PASSWORD@tcp+localhost:5432/framework_openmairie?title=Framework openMairie&formatdate=AAAA-MM-JJ&schema=postgres&prefixe=&directory=ldap-test&mail=mail-test&filestorage=filestorage-default&extras [DEBUG]
+2019-04-02 13:10:09 database::isError(): PEAR ERROR => DB Error: connect failed [DEBUG]
+
+
+2019-04-02 13:10:16 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:10:16 database::isError(): SGBD ERROR => nativecode=pg_connect(): Unable to connect to PostgreSQL server: FATAL:  la base de donn�es � framework_openmairie � n'existe pas] ** pgsql(pgsql)://postgres:PASSWORD@tcp+localhost:5432/framework_openmairie?title=Framework openMairie&formatdate=AAAA-MM-JJ&schema=postgres&prefixe=&directory=ldap-test&mail=mail-test&filestorage=filestorage-default&extras [DEBUG]
+2019-04-02 13:10:16 database::isError(): PEAR ERROR => DB Error: connect failed [DEBUG]
+
+
+2019-04-02 13:38:09 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:38:09 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='testuser'   [DEBUG]
+2019-04-02 13:38:09 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='testus...
+                        ^ [DEBUG]
+2019-04-02 13:38:09 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:38:30 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:38:30 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:38:30 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:38:30 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:40:06 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:40:06 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:40:06 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:40:06 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:40:27 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:40:27 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:40:27 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:40:27 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:44:46 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:44:46 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='testuser'   [DEBUG]
+2019-04-02 13:44:46 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='testus...
+                        ^ [DEBUG]
+2019-04-02 13:44:46 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:45:14 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:45:14 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='testuser'   [DEBUG]
+2019-04-02 13:45:14 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='testus...
+                        ^ [DEBUG]
+2019-04-02 13:45:14 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:45:23 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:45:23 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:45:23 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:45:23 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:45:33 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:45:33 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:45:33 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:45:33 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:45:53 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:45:53 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:45:53 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:45:53 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
+
+2019-04-02 13:46:20 ERROR [.] /framework-openmairie-4.9.1/app/index.php?module=login
+2019-04-02 13:46:20 database::isError(): QUERY =>  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'   [DEBUG]
+2019-04-02 13:46:20 database::isError(): SGBD ERROR => nativecode=ERREUR:  la relation « postgres.om_utilisateur » n'existe pas
+LINE 1:  SELECT *  FROM postgres.om_utilisateur  WHERE login='admin'...
+                        ^ [DEBUG]
+2019-04-02 13:46:20 database::isError(): PEAR ERROR => DB Error: unknown error [DEBUG]
+
